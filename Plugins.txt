@@ -1,0 +1,316 @@
+# This file is used by Starfield to keep track of your downloaded content.
+# Please do not modify this file.
+
+# Starfield Community Patch
+*starfieldcommunitypatch.esm
+
+# CC - Bunk Assignment Clipboards
+*sp2_shipbunkassignmentclipboards.esm
+
+# CC - Bunk Assignment Clipboards - Shattered Space Add-On Patch
+*sp2_patch_shipbunkassignmentclipboards-shatteredspace.esm
+
+# CC - Gravity is Real - Interior Gravity Matches Exterior
+*gravityisreal.esm
+
+# CC - SKK Fast Start New Game (Starfield)
+*skkfaststartnewgame.esm
+
+# CC - Constellation Modular Outfits - Tank Tops, Jackets, T-Shirts and Parkas
+oddzealot_constellationtanktops.esm
+
+# CC - DarkStar Trainee's Maelstrom
+darkstar_traineemaelstrom.esm
+
+# CC - Choose Your Universe
+*auriechooseyouruniverse.esm
+
+# CC - Background Dialogue Unlocked
+*aurie_backgrounddialogueunlocked.esm
+
+# CC - Optional Temple Quests
+*aurieoptionaltemples.esm
+
+# CC - Useful Gifts
+*usefulgifts.esm
+
+# CC - Enhanced Companions
+aurie_enhancedcompanions.esm
+
+# CC - Sarah Morgan Dialogue Enhanced
+*sp2_sarahmorgandialogueenhanced.esm
+
+# CC - Visible Companion Affinity
+*visiblecompanionaffinity.esm
+
+# CC - Weapon Workbench Sinking Snap Fix
+*weaponworkbenchsnapfix.esm
+
+# CC - Refurbished Goods Quest Fix - Denis Averin
+*refurbishedgoodsquestfix.esm
+
+# CC - More Contraband Vendors
+*morecontrabandvendors.esm
+
+# CC - Make Rosie A Real Doctor
+*doctorrosie.esm
+
+# CC - Jillian sells Comspike and Conduction Grid - now available from SysDef
+*toftsellscfparts.esm
+
+# CC - The Slayton Solution - an immersive way to unlock the SAL-6830 and Naeva's Outfit
+*slaytonsolution.esm
+
+# CC - Bedlam - Dungeon Randomizer
+*bedlam.esm
+
+# CC - Infinite Universes
+*infititeuniverses.esm
+
+# CC - Color Filter Removal
+color filter remover.esm
+
+# CC - Trackers Alliance: The Vulture
+*sfta01.esm
+
+# CC - ECS Constant is missing (fix)
+*ecsconstantenabler.esm
+
+# CC - Make Erick Von Price Recruitable Again
+*makeerickrecruitable.esm
+
+# CC - Furnish Your Fleet
+*vivs_furnishyourfleet.esm
+
+# CC - Better Landing Bays
+*327ggchembath.esm
+
+# CC - Crafting Vacuum Tape to Adhesive
+*hijak_tape2adhesive_original.esm
+
+# CC - Escape
+*sfbgs00b.esm
+
+# CC - Gorefield: A Starfield Gore Framework
+*blep_gore_framework.esm
+
+# CC - Forgotten Frontiers - POI Expansion
+*forgottenfrontierspoi.esm
+
+# CC - Mining Conglomerate
+qog-miningconglomerate.esm
+
+# CC - Less is Whitmore
+*less is whitmore.esm
+
+# CC - Laser Sights No Dots Fixed
+*laser sights no dots fix.esm
+
+# CC - Mirrored Starfield Fixed
+*sp2_mirroredstarfieldfixed.esm
+
+# CC - My Price - No One Dies
+*myprice.esm
+
+# CC - No Chameleon Effect for Companions
+*no chameleon.esm
+
+# CC - No Chameleon Effect for You
+*no chameleon player edition.esm
+
+# CC - POI Cooldown - Fewer repeated POIs
+*poicooldown.esm
+
+# CC - Pilot Seat Access From Ladders
+*extendedcockpitbutton.esm
+
+# CC - Proper Companion Previews
+*companionpreviews.esm
+
+# CC - Robot Crew Perk
+*nk_robotcrewperk.esm
+
+# CC - Sense Dead Stuff
+*sensestarstuffcorpse.esm
+
+# CC - Show Star Names
+*showstarnames.esm
+
+# CC - Simple Immersive Looting
+*simpleimmersivelooting.esm
+
+# CC - Social Skills Extended
+*social skills extended.esm
+
+# CC - The Perfect Recipe
+*sfbgs00c.esm
+
+# ZeeOgre's Ship Tweaks
+*zeeogresshiptweaks.esm
+
+# CC - Waiting Reinvented
+*waiting reinvented.esm
+
+# CC - Better NA Water
+*betternawater.esm
+
+# CC - Blackout Grendel Skin
+sfbgs00a_g.esm
+
+# CC - Blackout Big Bang Skin
+sfbgs00a_e.esm
+
+# CC - Blackout Shotty Skin
+sfbgs00a_d.esm
+
+# CC - Blackout Drumbeat Skin
+sfbgs00a_a.esm
+
+# CC - Blackout Kodama Skin
+sfbgs00a_j.esm
+
+# CC - Blackout Equinox Skin
+sfbgs00a_f.esm
+
+# CC - Deimog
+sfbgs019.esm
+
+# CC - Observatory
+*sfbgs021.esm
+
+# CC - Resource Descriptions
+resourcedescriptions.esm
+
+# CC - Dark Cutter Skins
+darkcutterskins.esm
+
+# CC - FOTL's Craftable Weapon Skins
+fotl_skins_r2.esm
+
+# CC - OwlTech Nautilus
+owltech_ship_nautilus.esm
+
+# CC - NPC Enhancer Gun
+*npc enhancer gun.esm
+
+# CC - Alternate Vasco
+alternate vasco.esm
+
+# CC - Rocks! A GRiNDTerraverse PPG Stand-alone Expansion
+rocksgverseppg.esm
+
+# CC - Denser Vegetation- A GRiNDTerra Mod
+denservegetationgterra.esm
+
+# CC - Starfield Hair+Beards
+starfield_hair+beards.esm
+
+# CC - Starfield Billboards and Posters
+starfield billboards and posters.esm
+
+# CC - Hair Redone with New Colors - MonstrrMagic Textures
+newhaircolors.esm
+
+# CC - Ancient Mariner Module
+*sfbgs009.esm
+
+#-----------------------------
+# To be patched with DarkStar
+#-----------------------------
+
+# CC - VMP-31 Assault Rifle
+vcvmp31.esm
+
+# CC - Allied Assault Rifle AA-15
+outrora_arx_01.esm
+
+# CC - At Hell's Gate
+*kgcdoom.esm
+
+# CC - MkClarenceOutiftters: Legendary Customization
+*kinggathcreations_legendary.esm
+
+# CC - Melee Madness
+starfield_melee_weapons_z.esm
+
+# CC - CoreTech SpaceSuit
+coretech_spacesuit_z.esm
+
+# CC - Stroud Premium Edition
+*stroudpremiumedition.esm
+
+# CC - Falkland Systems Ship Services
+*falklandsystems.esm
+
+# CC - G-17x Sidearm
+g17x.esm
+
+# CC - Darksaber
+darksaber.esm
+
+# CC - Arboron Starlight Laser Pistol
+weap_starlight.esm
+
+# CC - LUMI Rifle System
+bublumi.esm
+
+# CC - The Armorer
+the armorer.esm
+
+# CC - Ahsoka Outfit
+ahsoka.esm
+
+# CC - Smuggler Veteran Outfit
+SmugglerVeteran.esm
+
+# CC - Star Wars Aliens
+SW Aliens.esm
+
+# CC - Star Wars Alien Player
+sw alien player.esm
+
+# CC - Allied Armaments PDW-27 Redux
+pxc_aa_pdw27_redux.esm
+
+# CC - The Book of Boba Fett Armor
+tbobf.esm
+
+# CC - Star Wars Bounty Hunter Pack
+sw_bountyhunters.esm
+
+# CC - Star Wars Classic Hero Collection
+sw_classic_heroes.esm
+
+# CC - Star Wars Clone Wars Outfits (Anakin - Obi-Wan - Padme)
+clonewars.esm
+
+# CC - The Mandalorian
+the mandalorian.esm
+
+# CC - Old World 50 Cal barrett M82 - Standalone
+antimaterielrifle.esm
+
+# CC - Starborn Gravis Suit
+*sfbgs023.esm
+
+# CC - Civilian Survival Suit
+*sfbgs024.esm
+
+# CC - Water-Cooled Miner's Outfit
+*sfbgs01c.esm
+
+# CC - Nomad Spacesuit
+*nomad_spacesuit_z.esm
+
+# CC - Idol's DJ Helmet
+*satou_idolshelmet01.esm
+
+#-----------------
+# DarkStar itself
+#-----------------
+
+*DarkStar.esm
+
+#------------------
+# DarkStar Patches
+#------------------
