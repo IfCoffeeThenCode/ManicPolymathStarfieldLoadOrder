@@ -100,29 +100,8 @@
 *ro-18 raptor.esm
 *aselyria.esm
 *x2357primearmorskinswatercooledoutfit.esm
-*darkstar_emissaries.esm
-*darkstar.esm
-*darkstar - allied armament pack 1 - patch.esm
-*darkstar - constellation modular outfits ttjtsp patch.esm
-*darkstar - at hells gate patch.esm
-*darkstar - falkland patch.esm
-*darkstar - trackers alliance patch.esm
-*darkstar - the vulture patch.esm
-*darkstar - uc pilot flight suit apparel patch.esm
-*darkstar - cosplay workbench.esm
-*DarkStar - Ahsoka Outfit Cosplay Patch.esm
-*sw aliens.esm
-*DarkStar - Star Wars Aliens Cosplay Patch.esm
-*DarkStar - Smuggler Veteran Cosplay Patch.esm
-*DarkStar - The Armorer Cosplay Patch.esm
-*DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esm
-*DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esm
-*DarkStar - Helmet Armory Patch.esm
-*darkstar - bountyhunter - vanillashape.esm
-*marvsbytes.horizon.darkstar.esm
-*darkstar - ro19 - patch.esm
 *nomad_spacesuit_z.esm
-*darkstar - nomad spacesuit patch.esm
+*sw aliens.esm
 *sw alien player.esm
 *afe_audrey_crewmember.esm
 *weap_b320_pistol.esm
@@ -134,6 +113,31 @@
 *stroudpremiumedition.esm
 *blep_gore_framework.esm
 *functionaldecor.esm
+*dam_sit_stem.esm
+*swgat.esm
+*doctorrosie.esm
+*waiting reinvented.esm
+*darkstar_emissaries.esm
+*darkstar.esm
+*darkstar - allied armament pack 1 - patch.esm
+*darkstar - constellation modular outfits ttjtsp patch.esm
+*darkstar - at hells gate patch.esm
+*darkstar - falkland patch.esm
+*darkstar - trackers alliance patch.esm
+*darkstar - the vulture patch.esm
+*darkstar - uc pilot flight suit apparel patch.esm
+*darkstar - cosplay workbench.esm
+*DarkStar - Ahsoka Outfit Cosplay Patch.esm
+*DarkStar - Star Wars Aliens Cosplay Patch.esm
+*DarkStar - Smuggler Veteran Cosplay Patch.esm
+*DarkStar - The Armorer Cosplay Patch.esm
+*DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esm
+*DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esm
+*DarkStar - Helmet Armory Patch.esm
+*darkstar - bountyhunter - vanillashape.esm
+*marvsbytes.horizon.darkstar.esm
+*darkstar - ro19 - patch.esm
+*darkstar - nomad spacesuit patch.esm
 *darkstar - shattered space patch.esm
 *darkstar - ryujin car patch.esm
 *darkstar - aa-15 - patch.esm
@@ -141,10 +145,6 @@
 *darkstar - atom-74 - patch.esm
 *darkstar - water-cooled miners' outfit patch.esm
 *darkstar - delta12 patch.esm
-*dam_sit_stem.esm
-*swgat.esm
-*doctorrosie.esm
-*waiting reinvented.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
