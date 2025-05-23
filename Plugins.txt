@@ -1,7 +1,7 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
 *weap_outrora_aap.esm
-*Faction Expansion Project.esm
+*faction expansion project.esm
 *forgottenfrontierspoi.esm
 *forgotten frontiers - faction & encounter expansion project patch.esm
 *bedlam.esm
