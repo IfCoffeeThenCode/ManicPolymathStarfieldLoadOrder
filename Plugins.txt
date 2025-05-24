@@ -129,9 +129,9 @@
 *darkstar - uc pilot flight suit apparel patch.esm
 *darkstar - cosplay workbench.esm
 *DarkStar - Ahsoka Outfit Cosplay Patch.esm
-*DarkStar - Star Wars Aliens Cosplay Patch.esm
-*DarkStar - Smuggler Veteran Cosplay Patch.esm
-*DarkStar - The Armorer Cosplay Patch.esm
+*darkstar - star wars aliens cosplay patch.esm
+*darkstar - smuggler veteran cosplay patch.esm
+*darkstar - the armorer cosplay patch.esm
 *DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esm
 *DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esm
 *DarkStar - Helmet Armory Patch.esm
