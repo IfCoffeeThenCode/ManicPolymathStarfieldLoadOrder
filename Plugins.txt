@@ -132,7 +132,7 @@
 *darkstar - star wars aliens cosplay patch.esm
 *darkstar - smuggler veteran cosplay patch.esm
 *darkstar - the armorer cosplay patch.esm
-*DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esm
+*darkstar - star wars classic hero collection cosplay patch.esm
 *DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esm
 *DarkStar - Helmet Armory Patch.esm
 *darkstar - bountyhunter - vanillashape.esm
