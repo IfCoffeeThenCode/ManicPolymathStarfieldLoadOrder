@@ -128,7 +128,7 @@
 *darkstar - the vulture patch.esm
 *darkstar - uc pilot flight suit apparel patch.esm
 *darkstar - cosplay workbench.esm
-*DarkStar - Ahsoka Outfit Cosplay Patch.esm
+*darkstar - ahsoka outfit cosplay patch.esm
 *darkstar - star wars aliens cosplay patch.esm
 *darkstar - smuggler veteran cosplay patch.esm
 *darkstar - the armorer cosplay patch.esm
