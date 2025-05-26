@@ -146,6 +146,7 @@
 *darkstar - atom-74 - patch.esm
 *darkstar - water-cooled miners' outfit patch.esm
 *darkstar - delta12 patch.esm
+*DarkStar - Star Trek TOS Gear Cosplay Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -157,3 +158,4 @@ DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esp
 DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esp
 DarkStar - Helmet Armory Patch.esp
 Diana Shrike Chargen.esp
+DarkStar - Star Trek TOS Gear Cosplay Patch.esp
