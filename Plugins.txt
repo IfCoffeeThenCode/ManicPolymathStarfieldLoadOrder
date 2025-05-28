@@ -118,6 +118,8 @@ outrora_arx_01.esm
 *doctorrosie.esm
 *waiting reinvented.esm
 *social skills extended.esm
+*junoforall.esm
+*effect remover.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
