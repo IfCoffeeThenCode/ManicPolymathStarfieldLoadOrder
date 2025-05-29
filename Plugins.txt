@@ -120,6 +120,7 @@ outrora_arx_01.esm
 *social skills extended.esm
 *junoforall.esm
 *effect remover.esm
+*indy.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
@@ -149,6 +150,7 @@ darkstar - aa-15 - patch.esm
 *darkstar - water-cooled miners' outfit patch.esm
 *darkstar - delta12 patch.esm
 *DarkStar - Star Trek TOS Gear Cosplay Patch.esm
+*DarkStar - Indiana Jones Cosplay Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -161,3 +163,4 @@ DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esp
 DarkStar - Helmet Armory Patch.esp
 Diana Shrike Chargen.esp
 DarkStar - Star Trek TOS Gear Cosplay Patch.esp
+DarkStar - Indiana Jones Cosplay Patch.esp
