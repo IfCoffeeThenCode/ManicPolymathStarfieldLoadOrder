@@ -153,6 +153,7 @@ darkstar - aa-15 - patch.esm
 *DarkStar - Star Trek TOS Gear Cosplay Patch.esm
 *DarkStar - Indiana Jones Cosplay Patch.esm
 *darkstar - starborn gravis suit patch.esm
+*DarkStar - Apollo 11 Spacesuit Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -166,3 +167,4 @@ DarkStar - Helmet Armory Patch.esp
 Diana Shrike Chargen.esp
 DarkStar - Star Trek TOS Gear Cosplay Patch.esp
 DarkStar - Indiana Jones Cosplay Patch.esp
+DarkStar - Apollo 11 Spacesuit Patch.esp
