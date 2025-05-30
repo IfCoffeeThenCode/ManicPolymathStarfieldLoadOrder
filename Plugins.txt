@@ -121,6 +121,7 @@ outrora_arx_01.esm
 *junoforall.esm
 *effect remover.esm
 *indy.esm
+*sfbgs023.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
@@ -151,6 +152,7 @@ darkstar - aa-15 - patch.esm
 *darkstar - delta12 patch.esm
 *DarkStar - Star Trek TOS Gear Cosplay Patch.esm
 *DarkStar - Indiana Jones Cosplay Patch.esm
+*darkstar - starborn gravis suit patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
