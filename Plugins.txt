@@ -150,8 +150,8 @@ darkstar - aa-15 - patch.esm
 *darkstar - atom-74 - patch.esm
 *darkstar - water-cooled miners' outfit patch.esm
 *darkstar - delta12 patch.esm
-*DarkStar - Star Trek TOS Gear Cosplay Patch.esm
-*DarkStar - Indiana Jones Cosplay Patch.esm
+*darkstar - star trek tos gear cosplay patch.esm
+*darkstar - indiana jones cosplay patch.esm
 *darkstar - starborn gravis suit patch.esm
 *DarkStar - Apollo 11 Spacesuit Patch.esm
 *DarkStar - Kylo Ren Cosplay Patch.esm
