@@ -1,7 +1,7 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
 *weap_outrora_aap.esm
-*faction expansion project.esm
+*Faction Expansion Project.esm
 *forgottenfrontierspoi.esm
 *forgotten frontiers - faction & encounter expansion project patch.esm
 *bedlam.esm
@@ -121,6 +121,13 @@ outrora_arx_01.esm
 *junoforall.esm
 *effect remover.esm
 *indy.esm
+*allvehicleshavestorage.esm
+*betterboardingencounters.esm
+*afe_poptartconstellationsuit.esm
+*smartheal.esm
+*afe_standalone_scarf.esm
+*afe_starborn_maverick_spacesuit.esm
+*afe_starborn_heretic.esm
 *sfbgs023.esm
 *darkstar_emissaries.esm
 *darkstar.esm
@@ -156,6 +163,8 @@ darkstar - aa-15 - patch.esm
 *DarkStar - Apollo 11 Spacesuit Patch.esm
 *DarkStar - Kylo Ren Cosplay Patch.esm
 *DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esm
+*DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esm
+*darkstar - starborn maverick - patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -172,3 +181,4 @@ DarkStar - Indiana Jones Cosplay Patch.esp
 DarkStar - Apollo 11 Spacesuit Patch.esp
 DarkStar - Kylo Ren Cosplay Patch.esp
 DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esp
+DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esp
