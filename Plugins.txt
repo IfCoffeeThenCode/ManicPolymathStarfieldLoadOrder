@@ -166,6 +166,7 @@ darkstar - aa-15 - patch.esm
 *DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esm
 *darkstar - starborn maverick - patch.esm
 *DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esm
+*DarkStar - Obi-Wan Robes Cosplay Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -184,3 +185,4 @@ DarkStar - Kylo Ren Cosplay Patch.esp
 DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esp
 DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esp
 DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esp
+DarkStar - Obi-Wan Robes Cosplay Patch.esp
