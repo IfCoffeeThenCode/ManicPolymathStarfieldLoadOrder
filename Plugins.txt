@@ -129,6 +129,7 @@ outrora_arx_01.esm
 *afe_starborn_maverick_spacesuit.esm
 *afe_starborn_heretic.esm
 *sfbgs023.esm
+*gb_shipbuilderconfigurator.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
