@@ -163,7 +163,7 @@ darkstar - aa-15 - patch.esm
 *darkstar - star trek tos gear cosplay patch.esm
 *darkstar - indiana jones cosplay patch.esm
 *darkstar - starborn gravis suit patch.esm
-*DarkStar - Apollo 11 Spacesuit Patch.esm
+*darkstar - apollo 11 spacesuit patch.esm
 *DarkStar - Kylo Ren Cosplay Patch.esm
 *DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esm
 *DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esm
