@@ -174,7 +174,7 @@ darkstar - aa-15 - patch.esm
 *darkstar - starborn maverick - patch.esm
 *DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esm
 *DarkStar - Obi-Wan Robes Cosplay Patch.esm
-*DarkStar - Grand Admiral Thrawn Outfit Cosplay Patch.esm
+*darkstar - grand admiral thrawn outfit cosplay patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
