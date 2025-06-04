@@ -131,6 +131,7 @@ outrora_arx_01.esm
 *sfbgs023.esm
 *thesniper9-swarmorpack.esm
 *gb_shipbuilderconfigurator.esm
+*jramosworks_ramtechunlimitedsupplykiosk.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
