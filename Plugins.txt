@@ -3,6 +3,7 @@
 *weap_outrora_aap.esm
 *faction expansion project.esm
 *forgottenfrontierspoi.esm
+*forgottenfrontierspoi2.esm
 *forgotten frontiers - faction & encounter expansion project patch.esm
 *bedlam.esm
 *sp2_sarahmorgandialogueenhanced.esm
