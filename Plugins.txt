@@ -133,6 +133,9 @@ outrora_arx_01.esm
 *gb_shipbuilderconfigurator.esm
 *thesniper9-swarmorpack.esm
 *jramosworks_ramtechunlimitedsupplykiosk.esm
+*sweetpeaplays_fireside.esm
+*tankgirlsbuildsonnydifalco.esm
+*sp2_lgbtqiaprideapparelpack.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
