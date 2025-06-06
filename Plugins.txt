@@ -168,13 +168,15 @@ darkstar - aa-15 - patch.esm
 *darkstar - indiana jones cosplay patch.esm
 *darkstar - starborn gravis suit patch.esm
 *darkstar - apollo 11 spacesuit patch.esm
-*DarkStar - Kylo Ren Cosplay Patch.esm
-*DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esm
-*DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esm
+*darkstar - kylo ren cosplay patch.esm
+*darkstar - star wars darth vader armor cosplay patch.esm
+*darkstar - star wars bounty hunter pack cosplay patch.esm
 *darkstar - starborn maverick - patch.esm
-*DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esm
-*DarkStar - Obi-Wan Robes Cosplay Patch.esm
+*darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
+*darkstar - obi-wan robes cosplay patch.esm
 *darkstar - grand admiral thrawn outfit cosplay patch.esm
+*DarkStar - The Mandalorian Cosplay Patch.esm
+DarkStar - The Book of Boba Fett Armor Cosplay Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
@@ -195,3 +197,6 @@ DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esp
 DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esp
 DarkStar - Obi-Wan Robes Cosplay Patch.esp
 DarkStar - Grand Admiral Thrawn Outfit Cosplay Patch.esp
+DarkStar - TheSniper9 Star Wars Armor Pack Cosplay Patch.esp
+DarkStar - The Mandalorian Cosplay Patch.esp
+DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
