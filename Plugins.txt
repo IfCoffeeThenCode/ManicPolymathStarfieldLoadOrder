@@ -175,8 +175,8 @@ darkstar - aa-15 - patch.esm
 *darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
 *darkstar - obi-wan robes cosplay patch.esm
 *darkstar - grand admiral thrawn outfit cosplay patch.esm
-*DarkStar - The Mandalorian Cosplay Patch.esm
-DarkStar - The Book of Boba Fett Armor Cosplay Patch.esm
+*darkstar - the mandalorian cosplay patch.esm
+*DarkStar - The Book of Boba Fett Armor Cosplay Patch.esm
 DarkStar - Nomad Spacesuit Patch.esp
 DarkStar - Water-Cooled Miners' Outfit Patch.esp
 DarkStar - Cosplay Workbench.esp
