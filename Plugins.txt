@@ -34,7 +34,7 @@
 *kylo ren.esm
 *tbobf.esm
 *missoargosopk1.esm
-outrora_arx_01.esm
+*outrora_arx_01.esm
 *miss_o_intwalls_03a.esm
 *betternawater.esm
 *auriechooseyouruniverse.esm
@@ -159,7 +159,7 @@ outrora_arx_01.esm
 *darkstar - nomad spacesuit patch.esm
 *darkstar - shattered space patch.esm
 *darkstar - ryujin car patch.esm
-darkstar - aa-15 - patch.esm
+*darkstar - aa-15 - patch.esm
 *darkstar - g17x patch.esm
 *darkstar - atom-74 - patch.esm
 *darkstar - water-cooled miners' outfit patch.esm
