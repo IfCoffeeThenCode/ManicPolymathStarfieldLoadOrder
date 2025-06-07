@@ -1,7 +1,7 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
 *weap_outrora_aap.esm
-*faction expansion project.esm
+*Faction Expansion Project.esm
 *forgottenfrontierspoi.esm
 *forgottenfrontierspoi2.esm
 *forgotten frontiers - faction & encounter expansion project patch.esm
@@ -112,6 +112,8 @@
 *galacticmeshfixes.esm
 *companionpreviews.esm
 *stroudpremiumedition.esm
+*patch-spe-deimog.esm
+*patch-spe-ui.esm
 *blep_gore_framework.esm
 *functionaldecor.esm
 *dam_sit_stem.esm
@@ -137,6 +139,8 @@
 *tankgirlsbuildsonnydifalco.esm
 *sp2_lgbtqiaprideapparelpack.esm
 *fjord_individual_storage_v1.esm
+patch-spe-ub.esm
+patch-spe-umh.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
