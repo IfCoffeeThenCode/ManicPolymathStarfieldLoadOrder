@@ -178,26 +178,3 @@
 *darkstar - grand admiral thrawn outfit cosplay patch.esm
 *darkstar - the mandalorian cosplay patch.esm
 *darkstar - the book of boba fett armor cosplay patch.esm
-DarkStar - Nomad Spacesuit Patch.esp
-DarkStar - Water-Cooled Miners' Outfit Patch.esp
-DarkStar - Cosplay Workbench.esp
-DarkStar - Ahsoka Outfit Cosplay Patch.esp
-DarkStar - Star Wars Aliens Cosplay Patch.esp
-DarkStar - Smuggler Veteran Cosplay Patch.esp
-DarkStar - The Armorer Cosplay Patch.esp
-DarkStar - Star Wars Classic Hero Collection Cosplay Patch.esp
-DarkStar - Star Wars Clone Wars Outfits Cosplay Patch.esp
-DarkStar - Helmet Armory Patch.esp
-Diana Shrike Chargen.esp
-DarkStar - Star Trek TOS Gear Cosplay Patch.esp
-DarkStar - Indiana Jones Cosplay Patch.esp
-DarkStar - Apollo 11 Spacesuit Patch.esp
-DarkStar - Kylo Ren Cosplay Patch.esp
-DarkStar - Star Wars Darth Vader Armor Cosplay Patch.esp
-DarkStar - Star Wars Bounty Hunter Pack Cosplay Patch.esp
-DarkStar - Star Wars Nightsisters and Nighttrooper Outfit Cosplay Patch.esp
-DarkStar - Obi-Wan Robes Cosplay Patch.esp
-DarkStar - Grand Admiral Thrawn Outfit Cosplay Patch.esp
-DarkStar - TheSniper9 Star Wars Armor Pack Cosplay Patch.esp
-DarkStar - The Mandalorian Cosplay Patch.esp
-DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
