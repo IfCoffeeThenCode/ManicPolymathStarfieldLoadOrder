@@ -143,6 +143,7 @@ patch-spe-umh.esm
 *fjord_individual_storage_v1.esm
 *h0lzpoiexpansion.esm
 *swmw.esm
+*hk416.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
@@ -186,3 +187,4 @@ patch-spe-umh.esm
 *darkstar - the book of boba fett armor cosplay patch.esm
 *DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esm
 DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esp
+DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
