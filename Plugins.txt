@@ -1,7 +1,9 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
+patch-spe-ub.esm
+patch-spe-umh.esm
 *weap_outrora_aap.esm
-*Faction Expansion Project.esm
+*faction expansion project.esm
 *forgottenfrontierspoi.esm
 *forgottenfrontierspoi2.esm
 *forgotten frontiers - faction & encounter expansion project patch.esm
@@ -141,8 +143,6 @@
 *fjord_individual_storage_v1.esm
 *h0lzpoiexpansion.esm
 *swmw.esm
-patch-spe-ub.esm
-patch-spe-umh.esm
 *darkstar_emissaries.esm
 *darkstar.esm
 *darkstar - allied armament pack 1 - patch.esm
