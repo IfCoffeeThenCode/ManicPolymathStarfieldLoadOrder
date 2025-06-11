@@ -139,6 +139,8 @@
 *tankgirlsbuildsonnydifalco.esm
 *sp2_lgbtqiaprideapparelpack.esm
 *fjord_individual_storage_v1.esm
+*h0lzpoiexpansion.esm
+*swmw.esm
 patch-spe-ub.esm
 patch-spe-umh.esm
 *darkstar_emissaries.esm
@@ -182,3 +184,5 @@ patch-spe-umh.esm
 *darkstar - grand admiral thrawn outfit cosplay patch.esm
 *darkstar - the mandalorian cosplay patch.esm
 *darkstar - the book of boba fett armor cosplay patch.esm
+*DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esm
+DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esp
