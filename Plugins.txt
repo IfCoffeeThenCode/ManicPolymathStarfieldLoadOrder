@@ -30,7 +30,7 @@ patch-spe-umh.esm
 *the armorer.esm
 *ahsoka.esm
 *uc_pilot_flightsuit.esm
-*weap_starlight.esm
+weap_starlight.esm
 *atom74.esm
 *obiwan.esm
 *kylo ren.esm
@@ -83,7 +83,7 @@ patch-spe-umh.esm
 *athanareikshelm.esm
 *delta12.esm
 *the mandalorian.esm
-*bountyhunter_outfit_z.esm
+bountyhunter_outfit_z.esm
 *sfbgs01c.esm
 *usefulmorgues.esm
 *useful infirmaries.esm
@@ -92,7 +92,7 @@ patch-spe-umh.esm
 *pilotassistantbot.esm
 *starwarsvader.esm
 *skkfaststartnewgame.esm
-*KaelaBioID.esm
+KaelaBioID.esm
 *Diana Shrike Chargen.esm
 *apollo11.esm
 *battenswrecks.esm
@@ -103,11 +103,11 @@ patch-spe-umh.esm
 *ro-18 raptor.esm
 *aselyria.esm
 *x2357primearmorskinswatercooledoutfit.esm
-*nomad_spacesuit_z.esm
+nomad_spacesuit_z.esm
 *sw aliens.esm
 *sw alien player.esm
 *afe_audrey_crewmember.esm
-*weap_b320_pistol.esm
+weap_b320_pistol.esm
 *tankgirlsxenologyexpanded.esm
 *outrora_ecliptic.esm
 *int_pirate_set.esm
@@ -135,7 +135,7 @@ patch-spe-umh.esm
 *afe_starborn_heretic.esm
 *sfbgs023.esm
 *gb_shipbuilderconfigurator.esm
-*thesniper9-swarmorpack.esm
+thesniper9-swarmorpack.esm
 *jramosworks_ramtechunlimitedsupplykiosk.esm
 *sweetpeaplays_fireside.esm
 *tankgirlsbuildsonnydifalco.esm
@@ -144,6 +144,7 @@ patch-spe-umh.esm
 *h0lzpoiexpansion.esm
 *swmw.esm
 *hk416.esm
+immersivesabers.esm
 *swjtg.esm
 *dractech systems - uniform.esm
 *darkstar_emissaries.esm
@@ -163,10 +164,10 @@ patch-spe-umh.esm
 *darkstar - star wars classic hero collection cosplay patch.esm
 *darkstar - star wars clone wars outfits cosplay patch.esm
 *DarkStar - Helmet Armory Patch.esm
-*darkstar - bountyhunter - vanillashape.esm
+darkstar - bountyhunter - vanillashape.esm
 *marvsbytes.horizon.darkstar.esm
 *darkstar - ro19 - patch.esm
-*darkstar - nomad spacesuit patch.esm
+darkstar - nomad spacesuit patch.esm
 *darkstar - shattered space patch.esm
 *darkstar - ryujin car patch.esm
 *darkstar - aa-15 - patch.esm
@@ -189,5 +190,10 @@ patch-spe-umh.esm
 *darkstar - the book of boba fett armor cosplay patch.esm
 *darkstar - star wars - mandalorian warriors cosplay patch.esm
 *darkstar - hk416 - patch.esm
+darkstar - immersive sabers - patch.esm
+*darkstar - star wars - jedi temple guard cosplay patch.esm
+*DarkStar - DracTech Systems - Uniforms Patch.esm
 DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esp
 DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
+DarkStar - Star Wars - Jedi Temple Guard Cosplay Patch.esp
+DarkStar - DracTech Systems - Uniforms Patch.esp
