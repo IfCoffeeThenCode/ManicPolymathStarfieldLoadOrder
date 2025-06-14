@@ -144,6 +144,7 @@ patch-spe-umh.esm
 *h0lzpoiexpansion.esm
 *swmw.esm
 *hk416.esm
+*swjtg.esm
 *dractech systems - uniform.esm
 *darkstar_emissaries.esm
 *darkstar.esm
@@ -186,7 +187,7 @@ patch-spe-umh.esm
 *darkstar - grand admiral thrawn outfit cosplay patch.esm
 *darkstar - the mandalorian cosplay patch.esm
 *darkstar - the book of boba fett armor cosplay patch.esm
-*DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esm
+*darkstar - star wars - mandalorian warriors cosplay patch.esm
 *darkstar - hk416 - patch.esm
 DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esp
 DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
