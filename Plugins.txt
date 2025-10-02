@@ -1,199 +1,115 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
-patch-spe-ub.esm
-patch-spe-umh.esm
-*weap_outrora_aap.esm
-*faction expansion project.esm
-*forgottenfrontierspoi.esm
-*forgottenfrontierspoi2.esm
-*forgotten frontiers - faction & encounter expansion project patch.esm
-*bedlam.esm
-*sp2_sarahmorgandialogueenhanced.esm
-*sp2_andrejadialogueenhanced.esm
-*sp2_shipbunkassignmentclipboards.esm
-*aurie_backgrounddialogueunlocked.esm
-*aseveil.esm
-*aseveil2.esm
-*sfta01.esm
-*sfbgs00b.esm
-*sfbgs009.esm
-*sfbgs00c.esm
-*ryujin - compact assault rifle.esm
-*oddzealot_constellationtanktops.esm
-*kgcdoom.esm
-*falklandsystems.esm
-*g17x.esm
-*smugglerveteran.esm
-*star trek tos gear.esm
-*sw_bountyhunters.esm
-*sw_classic_heroes.esm
-*the armorer.esm
-*ahsoka.esm
-*uc_pilot_flightsuit.esm
-weap_starlight.esm
-*atom74.esm
-*obiwan.esm
-*kylo ren.esm
-*tbobf.esm
-*missoargosopk1.esm
-*outrora_arx_01.esm
-*miss_o_intwalls_03a.esm
-*betternawater.esm
-*auriechooseyouruniverse.esm
-*hijak_tape2adhesive_original.esm
-*du_overtime.esm
-*du_takeover.esm
-*ecsconstantenabler.esm
-*acr_eon_skin_pack1.esm
-*vivs_furnishyourfleet.esm
-*gravityisreal.esm
-*arc_lodgestn.esm
-*int_glassless_cockpits.esm
-*toftsellscfparts.esm
-*laser sights no dots fix.esm
-*less is whitmore.esm
-*makeerickrecruitable.esm
-*sp2_mirroredstarfieldfixed.esm
-*dwn_functionalcoffeeandteabrewers.esm
-*no chameleon.esm
-*no chameleon player edition.esm
-*aurieoptionaltemples.esm
-*refurbishedgoodsquestfix.esm
-*poicooldown.esm
-*extendedcockpitbutton.esm
-*nk_robotcrewperk.esm
-*sensestarstuffcorpse.esm
-*pegasuscrowdoutfits.esm
-*starbornamongus.esm
-*sweetpeaplays_ac_improved_den.esm
-*slaytonsolution.esm
-*usefulgifts.esm
-*visiblecompanionaffinity.esm
-*x2357primeweaponskinstombstone.esm
-*x2357primeweaponskinsbeowulf.esm
-*zeeogresshiptweaks.esm
-*x2357retrooutfits.esm
-*weaponworkbenchsnapfix.esm
-*egtech-addspaceship.esm
-*simpleimmersivelooting.esm
-*uc_vanguard_skins.esm
-*vcvmp31.esm
-*327ggchembath.esm
-*clonewars.esm
-*athanareikshelm.esm
-*delta12.esm
-*the mandalorian.esm
-bountyhunter_outfit_z.esm
-*sfbgs01c.esm
-*usefulmorgues.esm
-*useful infirmaries.esm
-*starwarsnightsister.esm
-*zeeogresdomesticateallflora.esm
-*pilotassistantbot.esm
-*starwarsvader.esm
-*skkfaststartnewgame.esm
-KaelaBioID.esm
-*Diana Shrike Chargen.esm
-*apollo11.esm
-*battenswrecks.esm
-*ahouse10.esm
-*novafinch_apollo9.esm
-*zeeogresconstellationdropcrate.esm
-*sfbgs019.esm
-*ro-18 raptor.esm
-*aselyria.esm
-*x2357primearmorskinswatercooledoutfit.esm
-nomad_spacesuit_z.esm
 *sw aliens.esm
-*sw alien player.esm
-*afe_audrey_crewmember.esm
-weap_b320_pistol.esm
-*tankgirlsxenologyexpanded.esm
-*outrora_ecliptic.esm
-*int_pirate_set.esm
-*galacticmeshfixes.esm
-*companionpreviews.esm
+*owltech_lets_work_habs.esm
+*intrinityaeroworks.esm
 *stroudpremiumedition.esm
-*patch-spe-deimog.esm
-*patch-spe-ui.esm
-*blep_gore_framework.esm
-*functionaldecor.esm
-*dam_sit_stem.esm
-*swgat.esm
-*doctorrosie.esm
-*waiting reinvented.esm
-*social skills extended.esm
-*junoforall.esm
-*effect remover.esm
-*indy.esm
-*allvehicleshavestorage.esm
-*betterboardingencounters.esm
-*afe_poptartconstellationsuit.esm
-*smartheal.esm
-*afe_standalone_scarf.esm
-*afe_starborn_maverick_spacesuit.esm
-*afe_starborn_heretic.esm
-*sfbgs023.esm
-*gb_shipbuilderconfigurator.esm
-thesniper9-swarmorpack.esm
-*jramosworks_ramtechunlimitedsupplykiosk.esm
-*sweetpeaplays_fireside.esm
-*tankgirlsbuildsonnydifalco.esm
-*sp2_lgbtqiaprideapparelpack.esm
-*fjord_individual_storage_v1.esm
-*h0lzpoiexpansion.esm
-*swmw.esm
-*hk416.esm
-immersivesabers.esm
-*swjtg.esm
-*dractech systems - uniform.esm
-*darkstar_emissaries.esm
+*placedoorsyourself.esm
+*patch-spe-pdy.esm
+*shipbuildercategories.esm
+*decorativeengines_enhanced.esm
+*bettershippartsnaps.esm
+*bettershippartflips.esm
+*tnshipmodsallinone.esm
+*shipandpilot_thelegendofthemarigalante.esm
+*useful brigs.esm
+*intrinityubpatch.esm
+*bspf-tnshipmodsallinone-patch.esm
+*sfta01.esm
 *darkstar.esm
-*darkstar - allied armament pack 1 - patch.esm
-*darkstar - constellation modular outfits ttjtsp patch.esm
-*darkstar - at hells gate patch.esm
-*darkstar - falkland patch.esm
-*darkstar - trackers alliance patch.esm
 *darkstar - the vulture patch.esm
-*darkstar - uc pilot flight suit apparel patch.esm
+*shipvendorframework.esm
+*dwn_communityspaceshipexpansion.esm
+*dwn_communityspaceshipexpansionshipvendorframework.esm
+*shipandpilot.esm
+*forgottenfrontierspoi.esm
+*faction expansion project.esm
+*forgotten frontiers - faction & encounter expansion project patch.esm
+*unocucflygirl.esm
+*sfbgs009.esm
+*usefulmorgues.esm
+*tankgirlsxenologyexpanded.esm
+*useful infirmaries.esm
+*sfbgs00c.esm
+*falklandsystems.esm
+*sw alien player.esm
+*newhaircolors.esm
+*bedlam.esm
+*ground crew rainbow of the starfield.esm
+*tankgirlsmodelhomepoi.esm
+*tankgirlsbuildsonnydifalco.esm
+*du_takeover.esm
+*du_overtime.esm
+*forgottenfrontierspoi2.esm
+*aseveil.esm
+*aselyria.esm
+*aseveil2.esm
+*aseeverbright.esm
+*h0lzpoiexpansion.esm
+*abandonedgasextractionfacility.esm
+*dam_sit_stem.esm
+*sp2_realisticsundisksize.esm
+*immersivecontraband.esm
+*zeeogresdomesticateallflora.esm
+*smartdoc.esm
+*pilotassistantbot.esm
+*arc_signs.esm
+*arc_clutter_screens.esm
+*gravityisreal.esm
+*dwn_luxhabs.esm
+*sfbgs00b.esm
+*myprice.esm
+*visiblecompanionaffinity.esm
+*starbornamongus.esm
+*battenswrecks.esm
+*sp2_andrejadialogueenhanced.esm
+*int_pirate_set.esm
+*cross heavy industries m3.esm
+*sweetpeaplays_fireside.esm
+*sweetpeaplays_simpleworkbenches.esm
+*sweetpeaplays_ac_improved_den.esm
+*sweetpeaplays_thedailygrind.esm
+*sweetpeaplays_noels_greenhouse.esm
+*dwn_factionplayerrooms.esm
+*galacticmeshfixes.esm
+*blep_gore_framework.esm
+*immersivestarcolours.esm
+*caracal_lastflight.esm
+*dwn_functionalcoffeeandteabrewers.esm
+*poicooldown.esm
+*patch-spe-sbc.esm
+*dwn_luxhabs_pdypatch.esm
+*intrinity_tn_aio_patch.esm
+*useful mess halls.esm
+*extendedcockpitbutton.esm
+*fjord_individual_storage_v1.esm
+*galactic harvest - sorted storage patch - by fjordfun.esm
+*usefulgifts.esm
+*dwn_traitstarterhomes.esm
+*refurbishedgoodsquestfix.esm
+*junoforall.esm
+*sp2_shipbunkassignmentclipboards.esm
+*sp2_shipbunkassignmentclipboards_patch_addon_sfbgs001.esm
+*Diana Shrike Chargen.esm
+*afe_audrey_crewmember.esm
+*functionaldecor.esm
+*missoargosopk1.esm
+*miss_o_intwalls_03a.esm
+*vivs_furnishyourfleet.esm
+*sp2_sarahmorgandialogueenhanced.esm
+*sp2_simpleimmersivemusicplayers.esm
+*sp2_mirroredstarfieldfixed.esm
+*star trek tos gear.esm
+*swmw.esm
+*darkstar - sorted storage patch.esm
 *darkstar - cosplay workbench.esm
-*darkstar - ahsoka outfit cosplay patch.esm
 *darkstar - star wars aliens cosplay patch.esm
-*darkstar - smuggler veteran cosplay patch.esm
-*darkstar - the armorer cosplay patch.esm
-*darkstar - star wars classic hero collection cosplay patch.esm
-*darkstar - star wars clone wars outfits cosplay patch.esm
-*DarkStar - Helmet Armory Patch.esm
-darkstar - bountyhunter - vanillashape.esm
-*marvsbytes.horizon.darkstar.esm
-*darkstar - ro19 - patch.esm
-darkstar - nomad spacesuit patch.esm
+*darkstar - trackers alliance patch.esm
 *darkstar - shattered space patch.esm
-*darkstar - ryujin car patch.esm
-*darkstar - aa-15 - patch.esm
-*darkstar - g17x patch.esm
-*darkstar - atom-74 - patch.esm
-*darkstar - water-cooled miners' outfit patch.esm
-*darkstar - delta12 patch.esm
-*darkstar - star trek tos gear cosplay patch.esm
-*darkstar - indiana jones cosplay patch.esm
-*darkstar - starborn gravis suit patch.esm
-*darkstar - apollo 11 spacesuit patch.esm
-*darkstar - kylo ren cosplay patch.esm
-*darkstar - star wars darth vader armor cosplay patch.esm
-*darkstar - star wars bounty hunter pack cosplay patch.esm
-*darkstar - starborn maverick - patch.esm
-*darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
-*darkstar - obi-wan robes cosplay patch.esm
-*darkstar - grand admiral thrawn outfit cosplay patch.esm
-*darkstar - the mandalorian cosplay patch.esm
-*darkstar - the book of boba fett armor cosplay patch.esm
+*darkstar - falkland patch.esm
+*darkstar - missoargosopk1.esm
+*bmxoutpost.esm
+*darkstar - bmxoutpost.esm
 *darkstar - star wars - mandalorian warriors cosplay patch.esm
-*darkstar - hk416 - patch.esm
-darkstar - immersive sabers - patch.esm
-*darkstar - star wars - jedi temple guard cosplay patch.esm
-*DarkStar - DracTech Systems - Uniforms Patch.esm
-DarkStar - Star Wars - Mandalorian Warriors Cosplay Patch.esp
-DarkStar - The Book of Boba Fett Armor Cosplay Patch.esp
-DarkStar - Star Wars - Jedi Temple Guard Cosplay Patch.esp
-DarkStar - DracTech Systems - Uniforms Patch.esp
+*darkstar - star trek tos gear cosplay patch.esm
+Diana Shrike Chargen.esp
