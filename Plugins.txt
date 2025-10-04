@@ -23,8 +23,8 @@
 *dwn_communityspaceshipexpansionshipvendorframework.esm
 *shipandpilot.esm
 *forgottenfrontierspoi.esm
-*faction expansion project.esm
-*forgotten frontiers - faction & encounter expansion project patch.esm
+faction expansion project.esm
+forgotten frontiers - faction & encounter expansion project patch.esm
 *unocucflygirl.esm
 *sfbgs009.esm
 *usefulmorgues.esm
@@ -112,4 +112,21 @@
 *darkstar - bmxoutpost.esm
 *darkstar - star wars - mandalorian warriors cosplay patch.esm
 *darkstar - star trek tos gear cosplay patch.esm
+*gb_shipbuilderconfigurator.esm
+*gb_sbcx_dstgo.esm
+*gb_sbcx_falkland.esm
+*gb_sbcx_shatteredspace.esm
+*hijak_tape2adhesive_original.esm
+*shades_immersive_looting.esm
+*zeeogresshiptweaks.esm
+*atom74.esm
+*delta12.esm
+*g17x.esm
+*darkstar - atom-74 - patch.esm
+*darkstar - delta12 patch.esm
+*darkstar - g17x patch.esm
+*polyamory.esm
+*waiting reinvented.esm
+*sensestarstuffcorpse.esm
+*asc_deimos.esm
 Diana Shrike Chargen.esp
