@@ -1,6 +1,7 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
 *_____-place-at-top-mods-_____.esm
+*spacenebulae.esm
 *pytheas.esm
 *galacticmeshfixes.esm
 *gravityisreal.esm
@@ -113,6 +114,7 @@ ro-18 raptor.esm
 *x2357primeweaponskinstombstone.esm
 *x2357primeweaponskinscutter.esm
 *_____-ship-building-&-customization-_____.esm
+*customcargoplus.esm
 *bubneon.esm
 *placedoorsyourself.esm
 *missoargosopk1.esm
