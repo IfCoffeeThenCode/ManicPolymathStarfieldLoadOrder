@@ -81,6 +81,9 @@ du_takeover.esm
 *crazypencilposters.esm
 *dwn_theashtaresidence.esm
 *_____-companions-&-crew-_____.esm
+*Jiggle_Physics.esm
+*ShatteredSpace_Jiggle.esm
+*Jiggle_Physics_Crowd.esm
 *x2357eyecolors.esm
 afe_audrey_crewmember.esm
 sw aliens.esm
