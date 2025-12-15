@@ -130,8 +130,8 @@ ro-18 raptor.esm
 *decorativeengines_enhanced.esm
 *bettershippartsnaps.esm
 *bettershippartflips.esm
-*dwn_communityspaceshipexpansion.esm
 *shipvendorframework.esm
+*dwn_communityspaceshipexpansion.esm
 *dwn_communityspaceshipexpansionshipvendorframework.esm
 *shipandpilot.esm
 *usefulmorgues.esm
