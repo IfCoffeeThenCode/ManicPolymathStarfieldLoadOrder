@@ -195,6 +195,7 @@ cross heavy industries m3.esm
 *_____-existing-location-changes-_____.esm
 *sweetpeaplays_ac_improved_den.esm
 *_____-clothing-&-armor-_____.esm
+*nfvc0003vigilance.esm
 *starwarsnightsister.esm
 *BBL.esm
 *idg_old_earth_antique_hat.esm
@@ -211,6 +212,7 @@ faction expansion project.esm
 forgotten frontiers - faction & encounter expansion project patch.esm
 *_____-darkstar-&-patches-_____.esm
 *darkstar.esm
+*darkstar - vigilance patch.esm
 *sv_dstgo_ammo_fabricators.esm
 *gb_sbcx_dstgo.esm
 *darkstar vip mode.esm
