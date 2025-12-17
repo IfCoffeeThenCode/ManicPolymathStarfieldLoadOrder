@@ -43,6 +43,7 @@ du_overtime.esm
 *lostcoloniestirawa.esm
 *lostcoloniesvesta.esm
 *codoscrater.esm
+*morestaryards.esm
 *_____-p.o.i-mods-_____.esm
 du_takeover.esm
 *forgottenfrontierspoi.esm
@@ -114,6 +115,7 @@ g17x.esm
 ro-18 raptor.esm
 *x2357primeweaponskinstombstone.esm
 *x2357primeweaponskinscutter.esm
+*drones.esm
 *_____-ship-building-&-customization-_____.esm
 *customcargoplus.esm
 *bubneon.esm
