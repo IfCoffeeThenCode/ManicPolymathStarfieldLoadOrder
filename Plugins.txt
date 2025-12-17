@@ -7,7 +7,7 @@
 *gravityisreal.esm
 *shipbuildercategories.esm
 *aurie_backgrounddialogueunlocked.esm
-skkfaststartnewgame.esm
+*skkfaststartnewgame.esm
 *sp2_realisticsundisksize.esm
 *immersivestarcolours.esm
 *refurbishedgoodsquestfix.esm
@@ -105,6 +105,7 @@ alternate vasco.esm
 *npc enhancer gun.esm
 *pxc_aa_pdw27_redux.esm
 *pxc_aa_pdw27_redux_lsde_bulletfollowsdot.esm
+*skkfaststart - pdw27redux loadout.esm
 *atom74.esm
 delta12.esm
 g17x.esm
@@ -246,13 +247,12 @@ darkstar - star wars aliens cosplay patch.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
 adwryos.esm
-*lsd_newgamecustomizer.esm
+lsd_newgamecustomizer.esm
 *-=#-sorting-#=-__you_are_here__-=#-sorting-#=-.esm
 darkstar - ro19 - patch.esm
 eit_clothiers_z.esm
 jramosworks_ramtechunlimitedsupplykiosk.esm
 darkstar - eit - vanillashape.esm
-skkfaststart - pdw27redux loadout.esm
 Diana Shrike Chargen.esp
 DarkStar - Star Wars Rogue One Outfits Cosplay Patch.esp
 DarkStar - Star Wars Alien Player Cosplay Patch.esp
