@@ -198,6 +198,7 @@ cross heavy industries m3.esm
 *_____-existing-location-changes-_____.esm
 *sweetpeaplays_ac_improved_den.esm
 *_____-clothing-&-armor-_____.esm
+*x2357pathofsolomonclothingpack.esm
 *nfvc0003vigilance.esm
 *starwarsnightsister.esm
 *BBL.esm
