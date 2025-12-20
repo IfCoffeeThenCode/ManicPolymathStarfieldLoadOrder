@@ -163,8 +163,8 @@ cross heavy industries m3.esm
 *svf-shatteredspace-patch.esm
 *tn_aio_falklandsystems.esm
 patch-spe-pdy.esm
-*shipandpilot_thelegendofthemarigalante.esm
-*marigalante_lodge_fix.esm
+shipandpilot_thelegendofthemarigalante.esm
+marigalante_lodge_fix.esm
 dwn_luxhabs_pdypatch.esm
 *intrinityubpatch.esm
 *cargo reconsidered - better flips.esm
