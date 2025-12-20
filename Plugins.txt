@@ -117,6 +117,7 @@ ro-18 raptor.esm
 *x2357primeweaponskinscutter.esm
 *drones.esm
 *_____-ship-building-&-customization-_____.esm
+*int_glassless_cockpits.esm
 *customcargoplus.esm
 *bubneon.esm
 placedoorsyourself.esm
@@ -163,6 +164,7 @@ cross heavy industries m3.esm
 *tn_aio_falklandsystems.esm
 patch-spe-pdy.esm
 *shipandpilot_thelegendofthemarigalante.esm
+*marigalante_lodge_fix.esm
 dwn_luxhabs_pdypatch.esm
 *intrinityubpatch.esm
 *cargo reconsidered - better flips.esm
@@ -209,7 +211,7 @@ falklandsystems_pdypatch.esm
 *ahsoka.esm
 *swrogueoneoutfits.esm
 *swvt.esm
-*tntechrunner.esm
+*TNTechRunner.esm
 hhh.esm
 *_____-faction-changes-&-additions-_____.esm
 faction expansion project.esm
@@ -265,3 +267,4 @@ DarkStar - Halo Hayabusa Helmet Cosplay Patch.esp
 DarkStar - Everbright Patch.esp
 DarkStar - TechRunner Patch.esp
 skkfaststart - pdw27redux loadout.esp
+marigalante_lodge_fix.esp
