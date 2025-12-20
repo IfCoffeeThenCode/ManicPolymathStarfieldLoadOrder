@@ -84,7 +84,7 @@ du_takeover.esm
 *_____-companions-&-crew-_____.esm
 *x2357eyecolors.esm
 afe_audrey_crewmember.esm
-sw aliens.esm
+*sw aliens.esm
 pilotassistantbot.esm
 *aselyria.esm
 *aurie_quantumechoes_constellation.esm
