@@ -119,7 +119,7 @@ ro-18 raptor.esm
 *_____-ship-building-&-customization-_____.esm
 *customcargoplus.esm
 *bubneon.esm
-*placedoorsyourself.esm
+placedoorsyourself.esm
 *missoargosopk1.esm
 *dwn_immersivecargoholds.esm
 *tnshipmodsallinone.esm
@@ -161,9 +161,9 @@ cross heavy industries m3.esm
 *svf-falklandsystems-patch.esm
 *svf-shatteredspace-patch.esm
 *tn_aio_falklandsystems.esm
-*patch-spe-pdy.esm
+patch-spe-pdy.esm
 *shipandpilot_thelegendofthemarigalante.esm
-*dwn_luxhabs_pdypatch.esm
+dwn_luxhabs_pdypatch.esm
 *intrinityubpatch.esm
 *cargo reconsidered - better flips.esm
 *bspf-tnshipmodsallinone-patch.esm
@@ -174,7 +174,7 @@ cross heavy industries m3.esm
 *gb_sbcx_falkland.esm
 *gb_sbcx_shatteredspace.esm
 *matilijasaerospace.esm
-*matilija pdy patch.esm
+matilija pdy patch.esm
 *tn_aio_matilijas.esm
 *odx_antares.esm
 *odx_antares_sunkx1.esm
@@ -185,7 +185,7 @@ cross heavy industries m3.esm
 *tig_shipyardssbc.esm
 *bmxoutfalkpatch.esm
 *seti_shiplights_by_bosdragon.esm
-*falklandsystems_pdypatch.esm
+falklandsystems_pdypatch.esm
 *_____-user-interface-_____.esm
 *shades_immersive_looting.esm
 *waiting reinvented.esm
