@@ -82,6 +82,7 @@ du_takeover.esm
 *crazypencilposters.esm
 *dwn_theashtaresidence.esm
 *_____-companions-&-crew-_____.esm
+*jessamineforall.esm
 *x2357eyecolors.esm
 afe_audrey_crewmember.esm
 *sw aliens.esm
@@ -200,6 +201,7 @@ falklandsystems_pdypatch.esm
 *_____-existing-location-changes-_____.esm
 *sweetpeaplays_ac_improved_den.esm
 *_____-clothing-&-armor-_____.esm
+*smugglerveteran.esm
 *x2357pathofsolomonclothingpack.esm
 *nfvc0003vigilance.esm
 *starwarsnightsister.esm
@@ -240,6 +242,7 @@ darkstar - g17x patch.esm
 *darkstar - ryujin car patch.esm
 darkstar - ro18 patch.esm
 *darkstar - cosplay workbench.esm
+*darkstar - smuggler veteran cosplay patch.esm
 *darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
 *darkstar - old_earth_antique_hat cosplay patch.esm
 darkstar - star wars aliens cosplay patch.esm
