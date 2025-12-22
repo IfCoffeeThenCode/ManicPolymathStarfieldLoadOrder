@@ -1,28 +1,30 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
-*_____-place-at-top-mods-_____.esm
-*spacenebulae.esm
-*pytheas.esm
-*galacticmeshfixes.esm
-*gravityisreal.esm
-*shipbuildercategories.esm
-*aurie_backgrounddialogueunlocked.esm
-*skkfaststartnewgame.esm
-*sp2_realisticsundisksize.esm
-*immersivestarcolours.esm
-*refurbishedgoodsquestfix.esm
-*sp2_mirroredstarfieldfixed.esm
-*hijak_tape2adhesive_original.esm
-*dam_mahoe1_atmo.esm
-*royalhylaii.esm
-*laser sights no dots fix.esm
-*bountytargetspacesuitfix.esm
 *_____-bethesda-mods-_____.esm
 *sfta01.esm
 *sfbgs00c.esm
 *sfbgs00b.esm
 *sfbgs009.esm
+*_____-place-at-top-mods-_____.esm
+*spacenebulae.esm
+*pytheas.esm
+*galacticmeshfixes.esm
+*sp2_realisticsundisksize.esm
+*immersivestarcolours.esm
+*laser sights no dots fix.esm
+*gravityisreal.esm
+*aurie_backgrounddialogueunlocked.esm
+*skkfaststartnewgame.esm
+*sp2_mirroredstarfieldfixed.esm
+*hijak_tape2adhesive_original.esm
+*dam_mahoe1_atmo.esm
+*royalhylaii.esm
+*bountytargetspacesuitfix.esm
+*bedlam.esm
+*starbornamongus.esm
+*blep_gore_framework.esm
 *_____-quest-&-story-expansions-_____.esm
+*refurbishedgoodsquestfix.esm
 *thepraxdilemma.esm
 *caracal_crater.esm
 *caracal_lastflight.esm
@@ -34,7 +36,7 @@
 *ase3.esm
 *morelore_mantislegacy.esm
 *myprice.esm
-du_overtime.esm
+*du_overtime.esm
 *junoforall.esm
 *aurie_lessannoyingtemples.esm
 *aurieoptionaltemples.esm
@@ -51,12 +53,9 @@ du_takeover.esm
 *abandonedgasextractionfacility.esm
 *h0lzpoiexpansion.esm
 *battenswrecks.esm
-*bedlam.esm
 *immersivecontraband.esm
 *smartdoc.esm
 *arc_signs.esm
-*starbornamongus.esm
-*blep_gore_framework.esm
 *poicooldown.esm
 *_____-outpost-mods-_____.esm
 *satou_extended_customization.esm
@@ -117,6 +116,26 @@ ro-18 raptor.esm
 *x2357primeweaponskinstombstone.esm
 *x2357primeweaponskinscutter.esm
 *drones.esm
+*_____-clothing-&-armor-_____.esm
+*smugglerveteran.esm
+*x2357pathofsolomonclothingpack.esm
+*nfvc0003vigilance.esm
+*starwarsnightsister.esm
+*BBL.esm
+*idg_old_earth_antique_hat.esm
+*ground crew rainbow of the starfield.esm
+*star trek tos gear.esm
+*swmw.esm
+*ahsoka.esm
+*swrogueoneoutfits.esm
+*swvt.esm
+*TNTechRunner.esm
+hhh.esm
+*_____-existing-location-changes-_____.esm
+*sweetpeaplays_ac_improved_den.esm
+*_____-faction-changes-&-additions-_____.esm
+faction expansion project.esm
+forgotten frontiers - faction & encounter expansion project patch.esm
 *_____-ship-building-&-customization-_____.esm
 *int_glassless_cockpits.esm
 *customcargoplus.esm
@@ -189,35 +208,6 @@ matilija pdy patch.esm
 *bmxoutfalkpatch.esm
 *seti_shiplights_by_bosdragon.esm
 falklandsystems_pdypatch.esm
-*_____-user-interface-_____.esm
-*shades_immersive_looting.esm
-*waiting reinvented.esm
-*sensestarstuffcorpse.esm
-*aurie_chooseyouruniverse.esm
-*companionpreviews.esm
-*moretraits.esm
-*betterbackgrounds.esm
-*taintedadventurepause.esm
-*_____-existing-location-changes-_____.esm
-*sweetpeaplays_ac_improved_den.esm
-*_____-clothing-&-armor-_____.esm
-*smugglerveteran.esm
-*x2357pathofsolomonclothingpack.esm
-*nfvc0003vigilance.esm
-*starwarsnightsister.esm
-*BBL.esm
-*idg_old_earth_antique_hat.esm
-*ground crew rainbow of the starfield.esm
-*star trek tos gear.esm
-*swmw.esm
-*ahsoka.esm
-*swrogueoneoutfits.esm
-*swvt.esm
-*TNTechRunner.esm
-hhh.esm
-*_____-faction-changes-&-additions-_____.esm
-faction expansion project.esm
-forgotten frontiers - faction & encounter expansion project patch.esm
 *_____-darkstar-&-patches-_____.esm
 *darkstar.esm
 *darkstar - vigilance patch.esm
@@ -255,6 +245,16 @@ darkstar - star wars aliens cosplay patch.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
+*_____-user-interface-_____.esm
+*shades_immersive_looting.esm
+*waiting reinvented.esm
+*sensestarstuffcorpse.esm
+*aurie_chooseyouruniverse.esm
+*companionpreviews.esm
+*moretraits.esm
+*betterbackgrounds.esm
+*taintedadventurepause.esm
+*shipbuildercategories.esm
 adwryos.esm
 lsd_newgamecustomizer.esm
 *-=#-sorting-#=-__you_are_here__-=#-sorting-#=-.esm
