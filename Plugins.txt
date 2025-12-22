@@ -58,6 +58,8 @@ du_takeover.esm
 *arc_signs.esm
 *poicooldown.esm
 *_____-outpost-mods-_____.esm
+*vivs_furnishyourfleet.esm
+*missoargosopk1.esm
 *satou_extended_customization.esm
 *bmxoutpost.esm
 *tankgirlsmodelhomepoi.esm
@@ -141,8 +143,8 @@ forgotten frontiers - faction & encounter expansion project patch.esm
 *customcargoplus.esm
 *bubneon.esm
 placedoorsyourself.esm
-*missoargosopk1.esm
 *dwn_immersivecargoholds.esm
+*shipbuildercategories.esm
 *tnshipmodsallinone.esm
 *useful brigs.esm
 *useful mess halls.esm
@@ -167,7 +169,6 @@ cross heavy industries m3.esm
 *extendedcockpitbutton.esm
 *sp2_shipbunkassignmentclipboards.esm
 *sp2_shipbunkassignmentclipboards_patch_addon_sfbgs001.esm
-*vivs_furnishyourfleet.esm
 *gb_shipbuilderconfigurator.esm
 *zeeogresshiptweaks.esm
 *asc_deimos.esm
@@ -254,7 +255,6 @@ darkstar - star wars aliens cosplay patch.esm
 *moretraits.esm
 *betterbackgrounds.esm
 *taintedadventurepause.esm
-*shipbuildercategories.esm
 adwryos.esm
 lsd_newgamecustomizer.esm
 *-=#-sorting-#=-__you_are_here__-=#-sorting-#=-.esm
