@@ -250,7 +250,7 @@ darkstar - star wars aliens cosplay patch.esm
 *shades_immersive_looting.esm
 *waiting reinvented.esm
 *sensestarstuffcorpse.esm
-*aurie_chooseyouruniverse.esm
+aurie_chooseyouruniverse.esm
 *companionpreviews.esm
 *moretraits.esm
 *betterbackgrounds.esm
@@ -262,6 +262,7 @@ darkstar - ro19 - patch.esm
 eit_clothiers_z.esm
 *jramosworks_ramtechunlimitedsupplykiosk.esm
 darkstar - eit - vanillashape.esm
+rbt_SuitUp_RE.esm
 Diana Shrike Chargen.esp
 DarkStar - Star Wars Rogue One Outfits Cosplay Patch.esp
 DarkStar - Star Wars Alien Player Cosplay Patch.esp
