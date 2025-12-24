@@ -140,6 +140,7 @@ faction expansion project.esm
 forgotten frontiers - faction & encounter expansion project patch.esm
 _____-ship-building-&-customization-_____.esm
 *int_glassless_cockpits.esm
+*grafshabs-nova1x1.esm
 *customcargoplus.esm
 *bubneon.esm
 placedoorsyourself.esm
@@ -207,6 +208,14 @@ matilija pdy patch.esm
 *cargo reconsidered - tiger.esm
 *tig_shipyardssbc.esm
 *bmxoutfalkpatch.esm
+*falklandsystems_usefulbrigspatch.esm
+*falklandsystems_usefulinfirmariespatch.esm
+*falklandsystems_usefulmesshallspatch.esm
+*grafshabs_mattell_ubpatch.esm
+*cpsyche_usefulinfirmariespatchgrafshabsnova.esm
+*missolambenteb01.esm
+*cargo reconsidered - lambent.esm
+*lambent_ub_missopatch.esm
 *seti_shiplights_by_bosdragon.esm
 falklandsystems_pdypatch.esm
 _____-darkstar-&-patches-_____.esm
