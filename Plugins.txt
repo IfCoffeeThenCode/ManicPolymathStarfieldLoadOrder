@@ -217,6 +217,8 @@ matilija pdy patch.esm
 *cargo reconsidered - lambent.esm
 *lambent_ub_missopatch.esm
 *seti_shiplights_by_bosdragon.esm
+*owltech_perditus_fleet.esm
+*Perditus - SKK Fast Start New Game loadout.esm
 falklandsystems_pdypatch.esm
 _____-darkstar-&-patches-_____.esm
 *darkstar.esm
@@ -254,6 +256,8 @@ _____-darkstar-&-patches-_____.esm
 *darkstar - star wars - vail tormin outfit cosplay patch.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
+*DarkStar - OwlTech Perditus Fleet Patch.esm
+*DarkStar - Owltech Perditus Fleet Ship Size Patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
 _____-user-interface-_____.esm
 *shades_immersive_looting.esm
@@ -283,3 +287,6 @@ DarkStar - TechRunner Patch.esp
 skkfaststart - pdw27redux loadout.esp
 marigalante_lodge_fix.esp
 DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esp
+DarkStar - OwlTech Perditus Fleet Patch.esp
+Perditus - SKK Fast Start New Game loadout.esp
+DarkStar - Owltech Perditus Fleet Ship Size Patch.esp
