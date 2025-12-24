@@ -110,11 +110,11 @@ _____-added-weapons-_____.esm
 *pxc_aa_pdw27_redux_lsde_bulletfollowsdot.esm
 *skkfaststart - pdw27redux loadout.esm
 *atom74.esm
-delta12.esm
-g17x.esm
+*delta12.esm
+*g17x.esm
 *weap_outrora_aap.esm
 *ryujin - compact assault rifle.esm
-ro-18 raptor.esm
+*ro-18 raptor.esm
 *x2357primeweaponskinstombstone.esm
 *x2357primeweaponskinscutter.esm
 *drones.esm
@@ -225,18 +225,18 @@ _____-darkstar-&-patches-_____.esm
 *darkstar - missoargosopk1.esm
 *darkstar - bmxoutpost.esm
 *darkstar - atom-74 - patch.esm
-darkstar - delta12 patch.esm
-darkstar - g17x patch.esm
+*darkstar - delta12 patch.esm
+*darkstar - g17x patch.esm
 *darkstar - shattered space patch.esm
 *darkstar - df weapon modes.esm
 *darkstar - allied armament pack 1 - patch.esm
 *darkstar - ryujin car patch.esm
-darkstar - ro18 patch.esm
+*darkstar - ro18 patch.esm
 *darkstar - cosplay workbench.esm
 *darkstar - smuggler veteran cosplay patch.esm
 *darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
 *darkstar - old_earth_antique_hat cosplay patch.esm
-darkstar - star wars aliens cosplay patch.esm
+*darkstar - star wars aliens cosplay patch.esm
 *darkstar - star wars - mandalorian warriors cosplay patch.esm
 *darkstar - star trek tos gear cosplay patch.esm
 *darkstar - ahsoka outfit cosplay patch.esm
