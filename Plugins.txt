@@ -240,8 +240,8 @@ _____-darkstar-&-patches-_____.esm
 *darkstar - atom-74 - patch.esm
 *darkstar - delta12 patch.esm
 *darkstar - g17x patch.esm
-*darkstar - shattered space patch.esm
-*darkstar - df weapon modes.esm
+darkstar - shattered space patch.esm
+darkstar - df weapon modes.esm
 *darkstar - allied armament pack 1 - patch.esm
 *darkstar - ryujin car patch.esm
 *darkstar - ro18 patch.esm
