@@ -15,6 +15,7 @@ _____-place-at-top-mods-_____.esm
 *gravityisreal.esm
 *aurie_backgrounddialogueunlocked.esm
 *skkfaststartnewgame.esm
+skkcrimsonstartnewgame.esm
 *sp2_mirroredstarfieldfixed.esm
 *hijak_tape2adhesive_original.esm
 *dam_mahoe1_atmo.esm
@@ -219,6 +220,7 @@ matilija pdy patch.esm
 *seti_shiplights_by_bosdragon.esm
 *owltech_perditus_fleet.esm
 *Perditus - SKK Fast Start New Game loadout.esm
+Perditus - Crimson Start New Game Override.esm
 falklandsystems_pdypatch.esm
 _____-darkstar-&-patches-_____.esm
 *darkstar.esm
@@ -290,3 +292,4 @@ DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esp
 DarkStar - OwlTech Perditus Fleet Patch.esp
 Perditus - SKK Fast Start New Game loadout.esp
 DarkStar - Owltech Perditus Fleet Ship Size Patch.esp
+Perditus - Crimson Start New Game Override.esp
