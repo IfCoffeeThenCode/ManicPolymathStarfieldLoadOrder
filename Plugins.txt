@@ -123,7 +123,7 @@ _____-clothing-&-armor-_____.esm
 *x2357pathofsolomonclothingpack.esm
 *nfvc0003vigilance.esm
 *starwarsnightsister.esm
-*BBL.esm
+BBL.esm
 *idg_old_earth_antique_hat.esm
 *ground crew rainbow of the starfield.esm
 *star trek tos gear.esm
