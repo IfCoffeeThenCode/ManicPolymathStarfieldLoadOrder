@@ -260,7 +260,7 @@ _____-darkstar-&-patches-_____.esm
 *DarkStar - Owltech Perditus Fleet Ship Size Patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
 _____-user-interface-_____.esm
-*shades_immersive_looting.esm
+shades_immersive_looting.esm
 *waiting reinvented.esm
 *sensestarstuffcorpse.esm
 aurie_chooseyouruniverse.esm
