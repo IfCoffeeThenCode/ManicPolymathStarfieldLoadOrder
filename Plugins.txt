@@ -1,21 +1,30 @@
 # This file is used by Starfield to keep track of your downloaded content.
 # Please do not modify this file.
+darkstar - ahsoka outfit cosplay patch.esm
+darkstar - g17x patch.esm
+darkstar - old_earth_antique_hat cosplay patch.esm
+darkstar - smuggler veteran cosplay patch.esm
+darkstar - star trek tos gear cosplay patch.esm
+darkstar - star wars - mandalorian warriors cosplay patch.esm
+darkstar - star wars - vail tormin outfit cosplay patch.esm
+darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
+darkstar - star wars rogue one outfits cosplay patch.esm
+falklandsystems_pdypatch.esm
 _____-bethesda-mods-_____.esm
 *sfta01.esm
 *sfbgs00c.esm
 *sfbgs00b.esm
 *sfbgs009.esm
 _____-place-at-top-mods-_____.esm
-*spacenebulae.esm
+spacenebulae.esm
 *pytheas.esm
+*proximacentri.esm
 *galacticmeshfixes.esm
-*sp2_realisticsundisksize.esm
-*immersivestarcolours.esm
+sp2_realisticsundisksize.esm
+immersivestarcolours.esm
 *laser sights no dots fix.esm
 *gravityisreal.esm
 *aurie_backgrounddialogueunlocked.esm
-*skkfaststartnewgame.esm
-skkcrimsonstartnewgame.esm
 *sp2_mirroredstarfieldfixed.esm
 *hijak_tape2adhesive_original.esm
 *dam_mahoe1_atmo.esm
@@ -35,6 +44,7 @@ _____-quest-&-story-expansions-_____.esm
 *aseveil.esm
 *aseveil2.esm
 *ase3.esm
+*ase4.esm
 *morelore_mantislegacy.esm
 *myprice.esm
 *du_overtime.esm
@@ -51,21 +61,22 @@ _____-p.o.i-mods-_____.esm
 du_takeover.esm
 *forgottenfrontierspoi.esm
 *forgottenfrontierspoi2.esm
-*abandonedgasextractionfacility.esm
-*h0lzpoiexpansion.esm
-*battenswrecks.esm
+abandonedgasextractionfacility.esm
+h0lzpoiexpansion.esm
+battenswrecks.esm
 *immersivecontraband.esm
 *smartdoc.esm
 *arc_signs.esm
 *poicooldown.esm
 _____-outpost-mods-_____.esm
+*outpostfishtank.esm
 *vivs_furnishyourfleet.esm
 *missoargosopk1.esm
 *satou_extended_customization.esm
 *bmxoutpost.esm
-*tankgirlsmodelhomepoi.esm
-*dwn_traitstarterhomes.esm
-*dwn_factionplayerrooms.esm
+tankgirlsmodelhomepoi.esm
+dwn_traitstarterhomes.esm
+dwn_factionplayerrooms.esm
 *tankgirlsxenologyexpanded.esm
 *sweetpeaplays_noels_greenhouse.esm
 *functionaldecor.esm
@@ -88,10 +99,8 @@ _____-companions-&-crew-_____.esm
 *x2357eyecolors.esm
 afe_audrey_crewmember.esm
 *sw aliens.esm
-pilotassistantbot.esm
 *aselyria.esm
 *aurie_quantumechoes_constellation.esm
-unocucflygirl.esm
 *sw alien player.esm
 *newhaircolors.esm
 *sp2_andrejadialogueenhanced.esm
@@ -103,16 +112,12 @@ unocucflygirl.esm
 *rosietannehilldialogpatch_dr.esm
 *starfield_hair+beards.esm
 *diana shrike chargen.esm
-alternate vasco.esm
 *crewtakescont.esm
 _____-added-weapons-_____.esm
-*npc enhancer gun.esm
 *pxc_aa_pdw27_redux.esm
 *pxc_aa_pdw27_redux_lsde_bulletfollowsdot.esm
-*skkfaststart - pdw27redux loadout.esm
 *atom74.esm
 *delta12.esm
-*g17x.esm
 *weap_outrora_aap.esm
 *ryujin - compact assault rifle.esm
 *ro-18 raptor.esm
@@ -120,31 +125,21 @@ _____-added-weapons-_____.esm
 *x2357primeweaponskinscutter.esm
 *drones.esm
 _____-clothing-&-armor-_____.esm
-*smugglerveteran.esm
 *x2357pathofsolomonclothingpack.esm
 *nfvc0003vigilance.esm
-*starwarsnightsister.esm
-BBL.esm
-*idg_old_earth_antique_hat.esm
-*ground crew rainbow of the starfield.esm
-*star trek tos gear.esm
-*swmw.esm
-*ahsoka.esm
-*swrogueoneoutfits.esm
-*swvt.esm
-*TNTechRunner.esm
-hhh.esm
+*tntechrunner.esm
+*swgat.esm
 _____-existing-location-changes-_____.esm
 *sweetpeaplays_ac_improved_den.esm
 _____-faction-changes-&-additions-_____.esm
 faction expansion project.esm
 forgotten frontiers - faction & encounter expansion project patch.esm
 _____-ship-building-&-customization-_____.esm
+*shipvendorframework.esm
 *int_glassless_cockpits.esm
 *grafshabs-nova1x1.esm
 *customcargoplus.esm
 *bubneon.esm
-placedoorsyourself.esm
 *dwn_immersivecargoholds.esm
 *shipbuildercategories.esm
 *tnshipmodsallinone.esm
@@ -160,14 +155,12 @@ placedoorsyourself.esm
 *decorativeengines_enhanced.esm
 *bettershippartsnaps.esm
 *bettershippartflips.esm
-*shipvendorframework.esm
 *dwn_communityspaceshipexpansion.esm
 *dwn_communityspaceshipexpansionshipvendorframework.esm
 *shipandpilot.esm
 *usefulmorgues.esm
 *useful infirmaries.esm
 *dam_sit_stem.esm
-cross heavy industries m3.esm
 *extendedcockpitbutton.esm
 *sp2_shipbunkassignmentclipboards.esm
 *sp2_shipbunkassignmentclipboards_patch_addon_sfbgs001.esm
@@ -185,10 +178,6 @@ cross heavy industries m3.esm
 *svf-falklandsystems-patch.esm
 *svf-shatteredspace-patch.esm
 *tn_aio_falklandsystems.esm
-patch-spe-pdy.esm
-shipandpilot_thelegendofthemarigalante.esm
-marigalante_lodge_fix.esm
-dwn_luxhabs_pdypatch.esm
 *intrinityubpatch.esm
 *cargo reconsidered - better flips.esm
 *bspf-tnshipmodsallinone-patch.esm
@@ -199,7 +188,6 @@ dwn_luxhabs_pdypatch.esm
 *gb_sbcx_falkland.esm
 *gb_sbcx_shatteredspace.esm
 *matilijasaerospace.esm
-matilija pdy patch.esm
 *tn_aio_matilijas.esm
 *odx_antares.esm
 *odx_antares_sunkx1.esm
@@ -218,10 +206,7 @@ matilija pdy patch.esm
 *cargo reconsidered - lambent.esm
 *lambent_ub_missopatch.esm
 *seti_shiplights_by_bosdragon.esm
-*owltech_perditus_fleet.esm
-*Perditus - SKK Fast Start New Game loadout.esm
-Perditus - Crimson Start New Game Override.esm
-falklandsystems_pdypatch.esm
+*falklandsystems_patch_green.esm
 _____-darkstar-&-patches-_____.esm
 *darkstar.esm
 *darkstar - vigilance patch.esm
@@ -239,57 +224,47 @@ _____-darkstar-&-patches-_____.esm
 *darkstar - bmxoutpost.esm
 *darkstar - atom-74 - patch.esm
 *darkstar - delta12 patch.esm
-*darkstar - g17x patch.esm
 darkstar - shattered space patch.esm
 darkstar - df weapon modes.esm
 *darkstar - allied armament pack 1 - patch.esm
 *darkstar - ryujin car patch.esm
 *darkstar - ro18 patch.esm
 *darkstar - cosplay workbench.esm
-*darkstar - smuggler veteran cosplay patch.esm
-*darkstar - star wars nightsisters and nighttrooper outfit cosplay patch.esm
-*darkstar - old_earth_antique_hat cosplay patch.esm
+*darkstar - grand admiral thrawn outfit cosplay patch.esm
 *darkstar - star wars aliens cosplay patch.esm
-*darkstar - star wars - mandalorian warriors cosplay patch.esm
-*darkstar - star trek tos gear cosplay patch.esm
-*darkstar - ahsoka outfit cosplay patch.esm
 *darkstar - star wars alien player cosplay patch.esm
-*darkstar - star wars rogue one outfits cosplay patch.esm
-*darkstar - star wars - vail tormin outfit cosplay patch.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
+*DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
+*OwlTech_Perditus_Fleet.esm
+*Perditus - SmartDoc.esm
 DarkStar - OwlTech Perditus Fleet Patch.esm
 DarkStar - Owltech Perditus Fleet Ship Size Patch.esm
-*DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
+*skkfaststartnewgame.esm
+*ManicPolymath - OwlTech Perditus Fleet - SKK Fast Start New Game.esm
+Perditus - SKK Fast Start New Game loadout.esm
+*skkfaststart - pdw27redux loadout.esm
 _____-user-interface-_____.esm
 shades_immersive_looting.esm
 *waiting reinvented.esm
 *sensestarstuffcorpse.esm
-aurie_chooseyouruniverse.esm
+*aurie_chooseyouruniverse.esm
 *companionpreviews.esm
-*moretraits.esm
-*betterbackgrounds.esm
+moretraits.esm
+betterbackgrounds.esm
 *taintedadventurepause.esm
 adwryos.esm
 lsd_newgamecustomizer.esm
 -=#-sorting-#=-__you_are_here__-=#-sorting-#=-.esm
 darkstar - ro19 - patch.esm
 eit_clothiers_z.esm
-*jramosworks_ramtechunlimitedsupplykiosk.esm
+jramosworks_ramtechunlimitedsupplykiosk.esm
 darkstar - eit - vanillashape.esm
 rbt_SuitUp_RE.esm
-Diana Shrike Chargen.esp
-DarkStar - Star Wars Rogue One Outfits Cosplay Patch.esp
-DarkStar - Star Wars Alien Player Cosplay Patch.esp
-DarkStar - Star Wars Aliens Cosplay Patch.esp
-DarkStar - Star Wars - Vail Tormin Outfit Cosplay Patch.esp
-DarkStar - Halo Hayabusa Helmet Cosplay Patch.esp
-DarkStar - Everbright Patch.esp
+*ManicPolymath - Sun Tzu - The Art of War.esm
+ManicPolymath - SKK Fast Start New Game - Art of War.esm
+ManicPolymath - OwlTech Perditus Fleet - SKK Fast Start New Game.esp
+OwlTech_Perditus_Fleet.esp
+ManicPolymath - Sun Tzu - The Art of War.esp
+ManicPolymath - SKK Fast Start New Game - Art of War.esp
 DarkStar - TechRunner Patch.esp
-skkfaststart - pdw27redux loadout.esp
-marigalante_lodge_fix.esp
-DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esp
-DarkStar - OwlTech Perditus Fleet Patch.esp
-Perditus - SKK Fast Start New Game loadout.esp
-DarkStar - Owltech Perditus Fleet Ship Size Patch.esp
-Perditus - Crimson Start New Game Override.esp
