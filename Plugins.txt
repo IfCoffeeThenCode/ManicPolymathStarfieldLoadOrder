@@ -237,13 +237,16 @@ darkstar - df weapon modes.esm
 *darkstar - techrunner patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
 *OwlTech_Perditus_Fleet.esm
+roleplayersalternatestart.esm
+ManicPolymath - OwlTech Perditus Fleet - Roleplayers Alternate Start.esm
+ManicPolymath - OwlTech Perditus Fleet - ShipVendorFramework Patch.esm
 *Perditus - SmartDoc.esm
 DarkStar - OwlTech Perditus Fleet Patch.esm
 DarkStar - Owltech Perditus Fleet Ship Size Patch.esm
 *skkfaststartnewgame.esm
 *ManicPolymath - OwlTech Perditus Fleet - SKK Fast Start New Game.esm
 Perditus - SKK Fast Start New Game loadout.esm
-*skkfaststart - pdw27redux loadout.esm
+skkfaststart - pdw27redux loadout.esm
 _____-user-interface-_____.esm
 shades_immersive_looting.esm
 *waiting reinvented.esm
@@ -261,10 +264,12 @@ eit_clothiers_z.esm
 jramosworks_ramtechunlimitedsupplykiosk.esm
 darkstar - eit - vanillashape.esm
 rbt_SuitUp_RE.esm
-*ManicPolymath - Sun Tzu - The Art of War.esm
+ManicPolymath - Sun Tzu - The Art of War.esm
 ManicPolymath - SKK Fast Start New Game - Art of War.esm
 ManicPolymath - OwlTech Perditus Fleet - SKK Fast Start New Game.esp
 OwlTech_Perditus_Fleet.esp
 ManicPolymath - Sun Tzu - The Art of War.esp
 ManicPolymath - SKK Fast Start New Game - Art of War.esp
 DarkStar - TechRunner Patch.esp
+ManicPolymath - OwlTech Perditus Fleet - ShipVendorFramework Patch.esp
+ManicPolymath - OwlTech Perditus Fleet - Roleplayers Alternate Start.esp
