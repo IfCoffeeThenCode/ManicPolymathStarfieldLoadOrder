@@ -236,7 +236,7 @@ darkstar - df weapon modes.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
-*OwlTech_Perditus_Fleet.esm
+*owltech_perditus_fleet.esm
 roleplayersalternatestart.esm
 ManicPolymath - OwlTech Perditus Fleet - Roleplayers Alternate Start.esm
 ManicPolymath - OwlTech Perditus Fleet - ShipVendorFramework Patch.esm
