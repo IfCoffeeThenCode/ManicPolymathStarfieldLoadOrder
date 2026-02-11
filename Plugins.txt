@@ -68,6 +68,7 @@ battenswrecks.esm
 *smartdoc.esm
 *arc_signs.esm
 *poicooldown.esm
+*caracal_locationpack_blue.esm
 _____-outpost-mods-_____.esm
 *outpostfishtank.esm
 *vivs_furnishyourfleet.esm
@@ -129,19 +130,22 @@ _____-clothing-&-armor-_____.esm
 *nfvc0003vigilance.esm
 *tntechrunner.esm
 *swgat.esm
+*kine_clothing_flightsuit.esm
+*kine_clothing_vaultsuit.esm
 _____-existing-location-changes-_____.esm
 *sweetpeaplays_ac_improved_den.esm
 _____-faction-changes-&-additions-_____.esm
 faction expansion project.esm
 forgotten frontiers - faction & encounter expansion project patch.esm
 _____-ship-building-&-customization-_____.esm
+*gb_shipbuilderconfigurator.esm
+*shipbuildercategories.esm
 *shipvendorframework.esm
 *int_glassless_cockpits.esm
 *grafshabs-nova1x1.esm
 *customcargoplus.esm
 *bubneon.esm
 *dwn_immersivecargoholds.esm
-*shipbuildercategories.esm
 *tnshipmodsallinone.esm
 *useful brigs.esm
 *useful mess halls.esm
@@ -164,7 +168,6 @@ _____-ship-building-&-customization-_____.esm
 *extendedcockpitbutton.esm
 *sp2_shipbunkassignmentclipboards.esm
 *sp2_shipbunkassignmentclipboards_patch_addon_sfbgs001.esm
-*gb_shipbuilderconfigurator.esm
 *zeeogresshiptweaks.esm
 *asc_deimos.esm
 *asc_deimos_svf_patch.esm
@@ -236,8 +239,8 @@ darkstar - df weapon modes.esm
 *DarkStar - Everbright Patch.esm
 *darkstar - techrunner patch.esm
 *DarkStar - Institute of Naval Technology Glassless Cockpits Patch.esm
-*owltech_perditus_fleet.esm
 roleplayersalternatestart.esm
+*owltech_perditus_fleet.esm
 ManicPolymath - OwlTech Perditus Fleet - Roleplayers Alternate Start.esm
 ManicPolymath - OwlTech Perditus Fleet - ShipVendorFramework Patch.esm
 *Perditus - SmartDoc.esm
